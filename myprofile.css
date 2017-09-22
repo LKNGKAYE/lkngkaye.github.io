@@ -11,7 +11,7 @@
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: 40% 50%;
+    background-position: 45% 50%;
 }
 .my-highlight{
     color: rgb(183, 27, 27);
@@ -37,4 +37,8 @@
 .my-text2{
     color: rgba(5, 6, 6, 0.93);
     text-align: center;
+}
+.my-text3{
+    color: rgb(183,27,27);
+    text-align: right;
 }
