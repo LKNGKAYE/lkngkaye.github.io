@@ -1,5 +1,5 @@
 $(function () {
-    
+     // on submitting the form
         // on submitting the form
         $('form').submit(function (event) {
             // prevent the default action of reloading the page
